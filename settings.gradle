@@ -1,0 +1,2 @@
+include ':app', ':aspectjlib'
+rootProject.name='AspectJ'
